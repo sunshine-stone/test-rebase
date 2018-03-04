@@ -1,8 +1,13 @@
 using namespace a
 namspace b{
+class b{
+
 
 class b{
-this is a branch copy
+
+this is a branch
+
+
 }
 
 }
